@@ -3,3 +3,4 @@ site_url: http://scorpbot.com
 pages:
 - Home: 'index.md'
 - Authentication: 'authentication/auth.md'
+    - 'Twitch Authentication': 'authentication/auth_twitch.md'

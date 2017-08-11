@@ -8,11 +8,6 @@ This will connect all interfaces that have the "Include in Connect All" checkbox
 ### Disconnect All
 This will disconnect all interfaces that have the "Include in Connect All" checkbox checked.
 
-## Twitch Authentication
-Test
-
-<img src="../img/auth_window_twitch.png" style="width: 300px;" />
-
 ## Mixer Authentication
 
 <img src="../img/auth_window_mixer.png" style="width: 300px;" />
