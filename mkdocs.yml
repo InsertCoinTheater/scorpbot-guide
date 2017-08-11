@@ -3,5 +3,11 @@ site_url: http://scorpbot.com
 pages:
 - Home: 'index.md'
 - Authentication:
-    - 'About': 'authentication/auth.md'
+    - 'Getting Started': 'authentication/auth.md'
     - 'Twitch': 'authentication/auth_twitch.md'
+    - 'Mixer': 'authentication/auth_mixer.md'
+    - 'GameWisp': 'authentication/auth_gamewisp.md'
+    - 'Google': 'authentication/auth_google.md'
+    - 'Streamjar': 'authentication/auth_streamjar.md'
+    - 'StreamLabs': 'authentication/auth_streamlabs.md'
+    - 'Discord': 'authentication/auth/discord.md'
