@@ -2,8 +2,8 @@
 
 ## Key Terms
 
-### Connect All
+<h3>Connect All</h3>
 This will connect all interfaces that have the "Include in Connect All" checkbox checked.
 
-### Disconnect All
+<h3>Disconnect All</h3>
 This will disconnect all interfaces that have the "Include in Connect All" checkbox checked.
