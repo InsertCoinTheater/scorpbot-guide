@@ -1,0 +1,5 @@
+site_name: ScorpBot Guide
+site_url: http://scorpbot.com
+pages:
+- Home: 'index.md'
+- Authentication: 'authentication/auth.md'
