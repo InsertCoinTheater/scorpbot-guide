@@ -10,4 +10,4 @@ pages:
     - 'Google': 'authentication/auth_google.md'
     - 'Streamjar': 'authentication/auth_streamjar.md'
     - 'StreamLabs': 'authentication/auth_streamlabs.md'
-    - 'Discord': 'authentication/auth/discord.md'
+    - 'Discord': 'authentication/auth_discord.md'
