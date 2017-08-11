@@ -1,0 +1,3 @@
+To Authenticate to Mixer...
+
+<img src="../img/auth_window_mixer.png" style="width: 300px;" />
