@@ -1,4 +1,4 @@
-# Getting Started
+<h1>Getting started with Authentication</h1>
 
 ## Key Terms
 

@@ -4,4 +4,4 @@ from the Chat tab to the Web tab and everything in between.
 
 You'll find each section in the list to the left (or the flyout menu if you're on mobile).
 
-If you have any suggestions for this guide, please post on the ScorpBot Discord (link soon) or the [ScorpBot Forums](http://scorpbot.com/forums/) and let Scorpio know!
+If you have any suggestions for this guide, please post on the [ScorpBot Discord](http://discord.scorpbot.com) or the [ScorpBot Forums](http://scorpbot.com/forums/) and let Scorpio know!
