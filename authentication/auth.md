@@ -11,31 +11,31 @@ This will disconnect all interfaces that have the "Include in Connect All" check
 ## Twitch Authentication
 Test
 
-[Twitch Auth](img/auth_window_twitch.png)
+![Twitch Auth](img/auth_window_twitch.png)
 
 ## Mixer Authentication
 
-[Mixer Auth](img/auth_window_mixer.png)
+![Mixer Auth](img/auth_window_mixer.png)
 
 ## GameWisp Authentication
 
-[GameWisp Auth](img/auth_window_gamewisp.png)
+![GameWisp Auth](img/auth_window_gamewisp.png)
 
 ## Google Authentication
 
-[Google Auth](img/auth_window_google.png)
+![Google Auth](img/auth_window_google.png)
 
 ## Streamjar Authentication
 ### Classic
-[Twitch Auth](img/auth_window_streamjar_classic.png)
+![Streamjar Classic Auth](img/auth_window_streamjar_classic.png)
 
 ### Beta
-[Twitch Auth](img/auth_window_streamjar_beta.png)
+![Streamjar Beta Auth](img/auth_window_streamjar_beta.png)
 
 ## StreamLabs Authentication
-[Twitch Auth](img/auth_window_streamlabs.png)
+![StreamLabs Auth](img/auth_window_streamlabs.png)
 
 ## Discord Authentication
 Discord Authentication is still in-progress and is unavailable.
 
-[Twitch Auth](img/auth_window_discord.png)
+![Discord Auth](img/auth_window_discord.png)
