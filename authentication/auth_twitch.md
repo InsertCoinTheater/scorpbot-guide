@@ -14,7 +14,7 @@ On the Twitch Authentication dialog box, you'll need to specify the **name of th
 An OAuth Token is a secure method for allowing applications to access your account without providing the username or password. This protects your account as it is easily revoked and usually cannot modify your core account info (email, username, password, etc.).
 
 To get your OAuth token, click the ***Generate Oauth-Token*** button at the bottom of the dialog. You will receive a message along these lines:  
-<img src="../img/auth_window_twitch_oauth_bot_confirm.png" style="width: 250px;" />
+<img src="../img/auth_window_twitch_oauth_bot_confirmation.png" style="width: 250px;" />
 
 Clicking *Okay* will redirect you to the Twitch Authentication page in your web browser. Be sure you're authenticated with the right account  
 <img src="../img/auth_window_twitch_oauth_bot_twitch.png" style="width: 75px;" />
